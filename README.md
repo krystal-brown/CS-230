@@ -3,7 +3,7 @@
 
 Summary of the Client and Requirements
 
-The client, The Gaming Room, wanted to expand their existing Android game, Draw it or Lose It, into a web-based application that supports multiple platforms. Their requirements included a multi-team gameplay, unique player and team names, multiple simultaneous game instances and a scalable architecture that could run on Windows, macOS, Linux, and mobile environments. They needed a design that ensured consistency, concurrency control, and efficient resource management. 
+The client, The Gaming Room, wanted to expand their existing Android game, Draw it or Lose It, into a web-based application that supports multiple platforms. Their requirements included multi-team gameplay, unique player and team names, multiple simultaneous game instances, and a scalable architecture that could run on Windows, macOS, Linux, and mobile environments. They needed a design that ensured consistency, concurrency control, and efficient resource management. 
 
 What I Did Well
 
@@ -11,7 +11,7 @@ I did particularly well in organizing the design document clearly and logically.
 
 What Helped Me When Developing the Code
 
-Working through the design document first made the coding process much easier. Defining requirements, constraints, and architecture ahead of time gave me a clear mental model of how the system should behave. Understanding the relationship between classes and why certain patterns (like Singleton for game instance control) were necessary helped me write cleaner, more intentional code. 
+Working through the design document first made the coding process much easier. Defining requirements, constraints, and architecture ahead of time gave me a clear mental model of how the system should behave. Understanding the relationships between classes and why certain patterns (like the Singleton Pattern for game instance control) were necessary helped me write cleaner, more intentional code. 
 
 What I Would Revise
 
