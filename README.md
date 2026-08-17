@@ -1,4 +1,4 @@
-# CS-230
+# CS-230 Operating Platforms
 ## Module Eight Journal Reflection
 
 Summary of the Client and Requirements
